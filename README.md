@@ -1,4 +1,4 @@
-#[Todo React App](https://jeanbauer.github.io/todoReact
+#[Todo React App] (https://jeanbauer.github.io/todoReact)
 
 ### Getting started
 
