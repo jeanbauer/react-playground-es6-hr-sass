@@ -10,6 +10,10 @@ p {
   box-sizing: border-box;
   border-bottom: 3px solid transparent;
 }
+p:hover{
+  background: #EFE8E8;
+  cursor: pointer;
+}
 .title{
   font-family: 'Amatic SC', cursive;
   font-size: 70px;
