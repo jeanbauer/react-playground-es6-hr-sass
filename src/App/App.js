@@ -4,7 +4,13 @@ import Button from '../Components/Button.js';
 import ListTodo from '../Components/ListTodo.js';
 import './App.scss';
 
-const data = [];
+const data = [{
+  description: 'Write some unit tests with Jest',
+  time: new Date().getMilliseconds()
+}, {
+  description: 'Start to write CSView with React',
+  time: new Date().getMilliseconds()
+}];
 
 export default class App extends React.Component{
   constructor(props) {
